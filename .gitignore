@@ -1,0 +1,7 @@
+bin/
+obj/
+packages/
+.vs/
+hibernate.cfg.xml
+images/
+mailing.config
